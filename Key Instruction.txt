@@ -1,0 +1,12 @@
+Instructions for manual input:
+
+'r' = rain start
+'s' = rain stop
+'n' = night view
+'d' = day view
+left arrow = start boats and birds fly
+right arrow = stop boats and birds fly
+up arrow = speed up boats and birds fly
+down arrow = slow down boats and birds fly
+mouse left button = speed up cloud speed
+mouse right button = slow down cloud speed
